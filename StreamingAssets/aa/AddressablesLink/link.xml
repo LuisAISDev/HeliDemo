@@ -6,6 +6,7 @@
     <type fullname="ItemAutoAssigner" preserve="all" />
     <type fullname="ItemSwitcher" preserve="all" />
     <type fullname="MainMenuController" preserve="all" />
+    <type fullname="CameraSwitcher/CameraSetup" preserve="nothing" serialized="true" />
     <type fullname="ColorMatSwitcher/ColorBank" preserve="nothing" serialized="true" />
     <type fullname="ItemSwitcher/FeatureDependencie" preserve="nothing" serialized="true" />
     <type fullname="ItemSwitcher/InteriorCategorie" preserve="nothing" serialized="true" />

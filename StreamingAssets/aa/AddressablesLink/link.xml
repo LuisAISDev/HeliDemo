@@ -2,16 +2,21 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="CameraSwitcher" preserve="all" />
     <type fullname="ColorMatSwitcher" preserve="all" />
+    <type fullname="DoTweenCustomManager" preserve="all" />
     <type fullname="GeneralHeliCost" preserve="all" />
     <type fullname="ItemAutoAssigner" preserve="all" />
     <type fullname="ItemSwitcher" preserve="all" />
     <type fullname="MainMenuController" preserve="all" />
+    <type fullname="TurnOffAllChilds" preserve="all" />
     <type fullname="CameraSwitcher/CameraSetup" preserve="nothing" serialized="true" />
     <type fullname="ColorMatSwitcher/ColorBank" preserve="nothing" serialized="true" />
     <type fullname="ItemSwitcher/FeatureDependencie" preserve="nothing" serialized="true" />
     <type fullname="ItemSwitcher/InteriorCategorie" preserve="nothing" serialized="true" />
     <type fullname="ItemSwitcher/InteriorItem" preserve="nothing" serialized="true" />
     <type fullname="MenuElement" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DG.Tweening.DOTweenAnimation" preserve="all" />
   </assembly>
   <assembly fullname="Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Cinemachine.CinemachineComposer" preserve="all" />
@@ -37,6 +42,7 @@
   </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.LODGroup" preserve="all" />
     <type fullname="UnityEngine.Material" preserve="all" />
     <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.MeshFilter" preserve="all" />
@@ -50,6 +56,7 @@
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
